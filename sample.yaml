@@ -1,0 +1,5 @@
+AzureVirtualNetworkTypes:
+  database:
+    allowed_delegations:
+      - Microsoft.DBforMySQL/flexibleServers
+      - Microsoft.DBforPostgreSQL/flexibleServers
